@@ -103,7 +103,7 @@
 
                     <!-- info -->
                     <h1 class="mb-2 mt-0">Nguyễn Văn Cường</h1>
-                    <span>Mình là <span class="text-rotating">Coder, Sinh viên đại học Thủy Lợi</span></span>
+                    <span>Mình là <span class="text-rotating">Coder, Sinh viên</span></span>
 
                     <!-- social icons -->
                     <ul class="social-icons light list-inline mb-0 mt-4">
@@ -229,7 +229,7 @@
                                     <div class="mt-3">
                                         <!-- <form action="./cuongcv.pdf" method="get">
                                             <button type="submit" class="btn btn-default">Tải về CV</button></form> -->
-                                        <a href="./cuongcv.pdf" class="btn btn-default">Tải về CV</a>
+                                        <a href="#" class="btn btn-default">Tải về CV</a>
                                     </div>
                                     <div class="spacer d-md-none d-lg-none" data-height="30"></div>
                                 </div>
@@ -238,12 +238,12 @@
                                     <div class="skill-item">
                                         <div class="skill-info clearfix">
                                             <h4 class="float-left mb-3 mt-0"><i class="fab fa-css3"></i> HTML, CSS, JS
-                                                cơ bản</h4>
-                                            <span class="float-right">50%</span>
+                                                </h4>
+                                            <span class="float-right">70%</span>
                                         </div>
                                         <div class="progress">
                                             <div class="progress-bar data-background" role="progressbar"
-                                                aria-valuemin="0" aria-valuemax="100" aria-valuenow="50"
+                                                aria-valuemin="0" aria-valuemax="100" aria-valuenow="70"
                                                 data-color="#FF4C60">
                                             </div>
                                         </div>
@@ -252,11 +252,11 @@
                                     <div class="skill-item">
                                         <div class="skill-info clearfix">
                                             <h4 class="float-left mb-3 mt-0"><i class="fab fa-php"></i> PHP</h4>
-                                            <span class="float-right">40%</span>
+                                            <span class="float-right">50%</span>
                                         </div>
                                         <div class="progress">
                                             <div class="progress-bar data-background" role="progressbar"
-                                                aria-valuemin="0" aria-valuemax="100" aria-valuenow="40"
+                                                aria-valuemin="0" aria-valuemax="100" aria-valuenow="50"
                                                 data-color="#8e44ad">
                                             </div>
                                         </div>
@@ -264,7 +264,7 @@
                                     </div>
                                     <div class="skill-item">
                                         <div class="skill-info clearfix">
-                                            <h4 class="float-left mb-3 mt-0"><i class="fab fa-python"></i> PYTHON cơ bản
+                                            <h4 class="float-left mb-3 mt-0"><i class="fab fa-python"></i> PYTHON
                                             </h4>
                                             <span class="float-right">40%</span>
                                         </div>
@@ -278,13 +278,12 @@
                                     </div>
                                     <div class="skill-item">
                                         <div class="skill-info clearfix">
-                                            <h4 class="float-left mb-3 mt-0"><i class="fad fa-database"></i> MySQL cơ
-                                                bản</h4>
-                                            <span class="float-right">40%</span>
+                                            <h4 class="float-left mb-3 mt-0"><i class="fad fa-database"></i> Database</h4>
+                                            <span class="float-right">60%</span>
                                         </div>
                                         <div class="progress">
                                             <div class="progress-bar data-background" role="progressbar"
-                                                aria-valuemin="0" aria-valuemax="100" aria-valuenow="40"
+                                                aria-valuemin="0" aria-valuemax="100" aria-valuenow="60"
                                                 data-color="#2980b9">
                                             </div>
                                         </div>
@@ -292,7 +291,7 @@
                                     </div>
                                     <div class="skill-item">
                                         <div class="skill-info clearfix">
-                                            <h4 class="float-left mb-3 mt-0">Tiếng Anh cơ bản</h4>
+                                            <h4 class="float-left mb-3 mt-0">Tiếng Anh</h4>
                                             <span class="float-right">60%</span>
                                         </div>
                                         <div class="progress">
@@ -412,7 +411,7 @@
                             <div class="timeline-container wow fadeInUp">
                                 <div class="content">
                                     <span class="time">08/2018 - Nay</span>
-                                    <h3 class="title">Sinh viên đại học Thủy Lợi</h3>
+                                    <h3 class="title">Sinh viên đại học Bách Khoa</h3>
                                     <p>Chuyên ngành công nghệ thông tin
                                     </p>
                                 </div>
