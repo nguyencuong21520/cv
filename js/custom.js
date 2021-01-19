@@ -375,14 +375,14 @@ $(window).scroll(()=>{
   $('#return-to-top').css('transform', 'rotate(' + (($(this).scrollTop()/2 + 180)/3) + 'deg)');
   
   if ($(this).scrollTop() > ($('#about').offset().top-50)){
-    $('.navbar').addClass('navbar-light')
+    $('.navbar').addClass('navbar-light').removeClass('navbar-dark')
     $('.desktop-header-3').addClass('light')
-    $('.navbar').removeClass('navbar-dark')
+    // $('.navbar').removeClass('navbar-dark')
     $("#logo_").attr("src","./img/logo_black.png");
   }else{
     $('.desktop-header-3').removeClass('light')
-    $('.navbar').addClass('navbar-dark')
-    $('.navbar').removeClass('navbar-light')
+    $('.navbar').addClass('navbar-dark').removeClass('navbar-light')
+    // $('.navbar').removeClass('navbar-light')
     $("#logo_").attr("src","./img/logo_white.png");
   }
 })
